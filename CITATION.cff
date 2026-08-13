@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or repository, please cite the associated Computer Networks article."
+title: "A-CLA: Adaptive Cellular Learning Automata for Community Detection"
+type: software
+authors:
+  - given-names: Amirhossein
+    family-names: Fathinavid
+  - given-names: Amirhossein
+    family-names: Shoshtari Tavasoli
+repository-code: "https://github.com/AmirhosseinShoshtariTavasoli/A-CLA"
+identifiers:
+  - type: doi
+    value: "10.1016/j.comnet.2026.112103"
+    description: "Associated journal article"
+preferred-citation:
+  type: article
+  title: "A-CLA: A Novel Adaptive Cellular Learning Automata Approach for Uncovering Communities in Complex Networks"
+  authors:
+    - given-names: Amirhossein
+      family-names: Fathinavid
+    - given-names: Amirhossein
+      family-names: Shoshtari Tavasoli
+  journal: "Computer Networks"
+  volume: "278"
+  year: 2026
+  doi: "10.1016/j.comnet.2026.112103"

@@ -1,0 +1,5 @@
+-r requirements.txt
+python-louvain>=0.16
+python-igraph>=0.11
+leidenalg>=0.10
+cdlib>=0.4

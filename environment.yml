@@ -1,0 +1,20 @@
+name: a-cla
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.24
+  - pandas>=2.0
+  - networkx>=3.0
+  - openpyxl>=3.1
+  - scikit-learn>=1.3
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - statsmodels>=0.14
+  - python-louvain>=0.16
+  - python-igraph>=0.11
+  - leidenalg>=0.10
+  - pip
+  - pip:
+      - cdlib>=0.4
+      - pytest>=8
