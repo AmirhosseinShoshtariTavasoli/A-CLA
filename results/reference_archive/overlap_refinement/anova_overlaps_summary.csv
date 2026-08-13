@@ -1,0 +1,8 @@
+Dataset,df_Method,df_Residual,F,p_value
+C.elegans,6,63,714.1285714,6.27E-56
+Disesome,6,63,8774.748844,4.72E-90
+dolphin,6,63,11.38053097,1.41E-08
+karate,6,63,19.35294118,1.20E-12
+lesmisreable,6,63,160,3.55E-36
+netscience,6,63,7021.329057,5.24E-87
+yeast,6,63,981.0081932,3.24E-60
